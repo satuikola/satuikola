@@ -63,6 +63,8 @@ into cybersecurity and aiming to help people work safely in the digital world.
 Interactive cybersecurity training built with Genially.  
 Includes threat detection, phishing identification, vulnerability hunting & a final scenario.
 
+👉 **Play here:** https://view.genially.com/67f9136ff8ee7b4e52096283
+
 ### 🎮 TryHackMe Learning Journey  
 Repository tracking my labs and badges.  
 ➡ https://github.com/satuikola/thm-badge
