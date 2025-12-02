@@ -11,11 +11,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-Satu%20Ikola-ff46c7?style=for-the-badge&labelColor=303030">
   </a>
 
-  <!-- ESCAPE ROOM -->
-  <a href="https://view.genially.com/67f9136ff8ee7b4e52096283">
-    <img src="https://img.shields.io/badge/★%20CYBER%20ESCAPE%20ROOM-Play%20Now!-9b5cff?style=for-the-badge&labelColor=303030">
-  </a>
-
 </p>
 
 
@@ -43,6 +38,19 @@ into cybersecurity and aiming to help people work safely in the digital world.
 - 🌍 Open to internship opportunities in Finland, preferably along the main railway line, with hybrid or remote options
 
 ---
+## 🎮 Cyber Escape Room — Digital Fallout
+
+<p align="center">
+  <a href="https://github.com/satuikola/cyber-escape-room">
+    <img src="https://raw.githubusercontent.com/satuikola/cyber-escape-room/main/Cover.png" 
+         alt="Cyber Escape Room – Digital Fallout" width="500">
+  </a>
+</p>
+
+<p align="center">
+  🔗 <a href="https://github.com/satuikola/cyber-escape-room">View the repository</a>  •  
+  🎮 <a href="https://view.genially.com/67f9136ff8ee7b4e52096283" target="_blank">Play the game</a>
+</p>
 
 ## ⚡ Technologies & Tools
 
