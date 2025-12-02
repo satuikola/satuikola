@@ -91,8 +91,6 @@ into cybersecurity and aiming to help people work safely in the digital world.
 Repository tracking my labs and badges.  
 ➡ https://github.com/satuikola/thm-badge
 
-### 🎨 Genially Cyber Safety Rooms  
-Cybersecurity learning rooms built with Genially, featuring clear visuals, story-driven tasks and a modern color theme.
 
 ---
 
