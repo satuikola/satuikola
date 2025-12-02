@@ -77,10 +77,15 @@ into cybersecurity and aiming to help people work safely in the digital world.
 
 ---
 
-## 🏅 TryHackMe Badge
+
+## 🥇 TryHackMe Badge
 
 <p align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/SatuIkola.png" alt="TryHackMe Badge">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/SatuIkola.png" width="420">
+</p>
+
+<p align="center">
+  Progress in offensive & defensive security labs.
 </p>
 
 ---
