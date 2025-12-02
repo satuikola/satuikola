@@ -81,7 +81,8 @@ into cybersecurity and aiming to help people work safely in the digital world.
 ## 🥇 TryHackMe Badge
 
 <p align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/SatuIkola.png" width="420">
+ <img src="https://tryhackme-badges.s3.amazonaws.com/SatuIkola.png?v=1" width="420" alt="TryHackMe Badge">
+
 </p>
 
 <p align="center">
