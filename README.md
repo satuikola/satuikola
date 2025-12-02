@@ -4,6 +4,21 @@
   <img src="https://komarev.com/ghpvc/?username=satuikola&color=ff46c7&style=for-the-badge" alt="profile views"/>
 </p>
 
+<p align="center">
+
+  <!-- LINKEDIN -->
+  <a href="https://www.linkedin.com/in/satuikola/">
+    <img src="https://img.shields.io/badge/LinkedIn-Satu%20Ikola-ff46c7?style=for-the-badge&labelColor=303030">
+  </a>
+
+  <!-- ESCAPE ROOM -->
+  <a href="https://view.genially.com/67f9136ff8ee7b4e52096283">
+    <img src="https://img.shields.io/badge/★%20CYBER%20ESCAPE%20ROOM-Play%20Now!-9b5cff?style=for-the-badge&labelColor=303030">
+  </a>
+
+</p>
+
+
 
 <div align="center">
 
