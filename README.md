@@ -7,7 +7,7 @@
 <p align="center">
 
   <!-- LINKEDIN -->
-  <a href="https://www.linkedin.com/in/satuikola/">
+  <a href="https://www.linkedin.com/in/satu-ikola/">
     <img src="https://img.shields.io/badge/LinkedIn-Satu%20Ikola-ff46c7?style=for-the-badge&labelColor=303030">
   </a>
 
