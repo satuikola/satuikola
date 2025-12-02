@@ -1,5 +1,10 @@
 <h1 align="center">Hi, I'm Satu Ikola 👋</h1>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=satuikola&color=ff46c7&style=for-the-badge" alt="profile views"/>
+</p>
+
+
 <div align="center">
 
 ## 💗 ✨ Cybersecurity • Microsoft Security • SOC • Blue Team ✨ 💗
