@@ -85,11 +85,9 @@ into cybersecurity and aiming to help people work safely in the digital world.
 
 ---
 
-## 🗂 Featured Projects
 
-### 🎮 TryHackMe Learning Journey  
-Repository tracking my labs and badges.  
-➡ https://github.com/satuikola/thm-badge
+
+
 
 
 ---
