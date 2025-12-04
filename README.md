@@ -63,9 +63,11 @@ into cybersecurity and aiming to help people work safely in the digital world.
   </a>
 </p>
 
-<!-- Pink cyber line -->
+<!-- Pink cyber line (works everywhere) -->
 <p align="center">
-  <img src="https://via.placeholder.com/500x3/ff00cc/ff00cc" width="55%">
+  <img 
+    src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='500' height='4'><rect width='500' height='4' fill='%23ff00cc' /></svg>" 
+    width="55%">
 </p>
 
 <p align="center">
@@ -75,6 +77,7 @@ into cybersecurity and aiming to help people work safely in the digital world.
 <p align="center">
   <em>Image © OWASP Foundation — source: https://owasp.org</em>
 </p>
+
 
 
 
