@@ -40,7 +40,7 @@ into cybersecurity and aiming to help people work safely in the digital world.
 ---
 
 ## 🎮 Cyber Escape Room — Digital Fallout
-
+<br>
 <div style="margin-top: 20px;"></div>
 
 <p align="center">
@@ -60,7 +60,7 @@ into cybersecurity and aiming to help people work safely in the digital world.
 
 
 ## 🛡️ My OWASP Top 10 Notes
-
+<br>
 <p align="center">
   <a href="https://github.com/satuikola/owasp-top10-notes">
     <img src="https://github.com/satuikola/owasp-top10-notes/blob/main/1%20Owasp.png" 
@@ -81,7 +81,7 @@ into cybersecurity and aiming to help people work safely in the digital world.
 <hr style="height:1px; border:none; border-top:1px solid #d0d7de; margin:18px 0;">
 
 ## 🛡️ 🚧 Under construction
-
+<br>
 <p align="center">
   <a href="">
      <img src="https://github.com/satuikola/satuikola/blob/main/tulossa.jpg" 
