@@ -53,17 +53,21 @@ into cybersecurity and aiming to help people work safely in the digital world.
 </p>
 
 ---
-## 🎮 My Owasp top10 notes
+## 🎮 My OWASP Top 10 Notes
 
 <p align="center">
   <a href="https://github.com/satuikola/owasp-top10-notes">
-   <img src="https://github.com/satuikola/owasp-top10-notes/blob/main/1%20Owasp.png" 
-         
+    <img src="https://github.com/satuikola/owasp-top10-notes/blob/main/1%20Owasp.png" 
+         width="350" 
+         alt="OWASP Logo">
+  </a>
 </p>
 
 <p align="center">
-  🔗 <a href="https://github.com/satuikola/owasp-top10-notes">View the repository</a>  •  
- 
+  🔗 <a href="https://github.com/satuikola/owasp-top10-notes">View the repository</a>
+</p>
+
+<p align="center"><em>Image © OWASP Foundation — source: https://owasp.org</em></p>
 
 
 ## ⚡ Technologies & Tools
