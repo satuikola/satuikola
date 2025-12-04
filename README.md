@@ -55,8 +55,9 @@ into cybersecurity and aiming to help people work safely in the digital world.
   🎮 <a href="https://view.genially.com/67f9136ff8ee7b4e52096283" target="_blank">Play the game</a>
 </p>
 
-<!-- ohut viiva peliosion alle -->
 <hr style="height:1px; border:none; border-top:1px solid #d0d7de; margin:18px 0;">
+
+
 
 ## 🛡️ My OWASP Top 10 Notes
 
@@ -76,7 +77,7 @@ into cybersecurity and aiming to help people work safely in the digital world.
   <em>Image © OWASP Foundation — source: https://owasp.org</em>
 </p>
 
-<!-- ohut viiva Owaspin alle -->
+
 <hr style="height:1px; border:none; border-top:1px solid #d0d7de; margin:18px 0;">
 
 ## 🛡️ 🚧 Under construction
@@ -91,7 +92,7 @@ into cybersecurity and aiming to help people work safely in the digital world.
 
 
 
-<!-- ohut viiva Owaspin alle -->
+
 <hr style="height:1px; border:none; border-top:1px solid #d0d7de; margin:18px 0;">
 
 
