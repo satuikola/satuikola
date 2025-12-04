@@ -52,6 +52,22 @@ into cybersecurity and aiming to help people work safely in the digital world.
   🎮 <a href="https://view.genially.com/67f9136ff8ee7b4e52096283" target="_blank">Play the game</a>
 </p>
 
+---
+## 🎮 My Owasp top10 notes
+
+<p align="center">
+  <a href="https://github.com/satuikola/owasp-top10-notes">
+    <img src="[https://raw.githubusercontent.com/satuikola/cyber-escape-room/main/Cover.png](https://github.com/satuikola/owasp-top10-notes/blob/main/1%20Owasp.png)" 
+         alt="Cyber Escape Room – Digital Fallout" width="500">
+  </a>
+</p>
+
+<p align="center">
+  🔗 <a href="https://github.com/satuikola/cyber-escape-room">View the repository</a>  •  
+  🎮 <a href="https://view.genially.com/67f9136ff8ee7b4e52096283" target="_blank">Play the game</a>
+</p>
+
+
 ## ⚡ Technologies & Tools
 
 ### 🔐 Security & Cloud  
