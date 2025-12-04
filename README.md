@@ -48,7 +48,7 @@ into cybersecurity and aiming to help people work safely in the digital world.
 </p>
 
 <p align="center">
-  🔗 <a href="https://github.com/satuikola/cyber-escape-room">View the repository</a>  •  
+  🔗 <a href="https://github.com/satuikola/cyber-escape-room">View the repository</a>   
   🎮 <a href="https://view.genially.com/67f9136ff8ee7b4e52096283" target="_blank">Play the game</a>
 </p>
 
