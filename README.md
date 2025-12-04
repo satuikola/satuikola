@@ -53,7 +53,7 @@ into cybersecurity and aiming to help people work safely in the digital world.
 </p>
 
 ---
-## 🎮 My OWASP Top 10 Notes
+## 🛡️ My OWASP Top 10 Notes
 
 <p align="center">
   <a href="https://github.com/satuikola/owasp-top10-notes">
