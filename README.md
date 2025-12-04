@@ -63,11 +63,19 @@ into cybersecurity and aiming to help people work safely in the digital world.
   </a>
 </p>
 
+<!-- Pink cyber line -->
+<p align="center">
+  <img src="https://via.placeholder.com/500x3/ff00cc/ff00cc" width="55%">
+</p>
+
 <p align="center">
   🔗 <a href="https://github.com/satuikola/owasp-top10-notes">View the repository</a>
 </p>
 
-<p align="center"><em>Image © OWASP Foundation — source: https://owasp.org</em></p>
+<p align="center">
+  <em>Image © OWASP Foundation — source: https://owasp.org</em>
+</p>
+
 
 
 ## ⚡ Technologies & Tools
