@@ -38,7 +38,10 @@ into cybersecurity and aiming to help people work safely in the digital world.
 - 🌍 Open to internship opportunities in Finland, preferably along the main railway line, with hybrid or remote options
 
 ---
+
 ## 🎮 Cyber Escape Room — Digital Fallout
+
+<div style="margin-top: 20px;"></div>
 
 <p align="center">
   <a href="https://github.com/satuikola/cyber-escape-room">
@@ -52,7 +55,9 @@ into cybersecurity and aiming to help people work safely in the digital world.
   🎮 <a href="https://view.genially.com/67f9136ff8ee7b4e52096283" target="_blank">Play the game</a>
 </p>
 
----
+<!-- ohut viiva peliosion alle -->
+<hr style="height:1px; border:none; border-top:1px solid #d0d7de; margin:18px 0;">
+
 ## 🛡️ My OWASP Top 10 Notes
 
 <p align="center">
@@ -63,13 +68,6 @@ into cybersecurity and aiming to help people work safely in the digital world.
   </a>
 </p>
 
-<!-- Pink cyber line (works everywhere) -->
-<p align="center">
-  <img 
-    src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='500' height='4'><rect width='500' height='4' fill='%23ff00cc' /></svg>" 
-    width="55%">
-</p>
-
 <p align="center">
   🔗 <a href="https://github.com/satuikola/owasp-top10-notes">View the repository</a>
 </p>
@@ -78,10 +76,27 @@ into cybersecurity and aiming to help people work safely in the digital world.
   <em>Image © OWASP Foundation — source: https://owasp.org</em>
 </p>
 
+<!-- ohut viiva Owaspin alle -->
+<hr style="height:1px; border:none; border-top:1px solid #d0d7de; margin:18px 0;">
 
+## 🛡️ 🚧 Under construction
+
+<p align="center">
+  <a href="">
+     <img src="https://github.com/satuikola/satuikola/blob/main/tulossa.jpg" 
+         width="350" 
+         alt="OWASP Logo">
+  </a>
+</p>
+
+
+
+<!-- ohut viiva Owaspin alle -->
+<hr style="height:1px; border:none; border-top:1px solid #d0d7de; margin:18px 0;">
 
 
 ## ⚡ Technologies & Tools
+
 
 ### 🔐 Security & Cloud  
 - Microsoft Sentinel  
