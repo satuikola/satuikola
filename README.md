@@ -92,7 +92,7 @@ into cybersecurity and aiming to help people work safely in the digital world.
 </p>
 
 <p align="center">
-  <a href="[https://github.com/SatuIkola/vastaamo-incident-postmortem/blob/main/README_FI.md]">🇫🇮 Lue suomeksi</a>
+<a href="https://github.com/SatuIkola/vastaamo-incident-postmortem/blob/main/README_FI.md">🇫🇮 Lue suomeksi</a>
   &nbsp;•&nbsp;
   <a href="https://github.com/SatuIkola/vastaamo-incident-postmortem/blob/main/README.md">🇬🇧 Read in English</a>
 </p>
