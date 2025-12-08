@@ -78,15 +78,17 @@ into cybersecurity and aiming to help people work safely in the digital world.
 </p>
 
 
-<hr style="height:1px; border:none; border-top:1px solid #d0d7de; margin:18px 0;">
+<hr style="height:1px; border:none; border-top:1px solid #d0d7de; margin:12px 0;">
 
-<hr style="height:1px; border:none; border-top:1px solid #d0d7de; margin:18px 0;">
+
 
 ## 📝 Vastaamo Case Summary
-<br>
 
 <p align="center">
-  <img src="images/vastaamo_banner_900x300.png" width="900" alt="Vastaamo Case Summary Banner">
+  <img 
+    src="https://raw.githubusercontent.com/SatuIkola/vastaamo-incident-postmortem/main/images/vastaamo_banner_900x300.png"
+    width="750"
+    alt="Vastaamo Case Summary Banner">
 </p>
 
 <p align="center">
@@ -95,7 +97,9 @@ into cybersecurity and aiming to help people work safely in the digital world.
   <a href="https://github.com/SatuIkola/vastaamo-incident-postmortem/blob/main/README.md">🇬🇧 Read in English</a>
 </p>
 
-<hr style="height:1px; border:none; border-top:1px solid #d0d7de; margin:18px 0;">
+---
+
+
 
 ## 🛡️ 🚧 Under construction
 <br>
@@ -106,9 +110,6 @@ into cybersecurity and aiming to help people work safely in the digital world.
          alt="OWASP Logo">
   </a>
 </p>
-
-
-
 
 <hr style="height:1px; border:none; border-top:1px solid #d0d7de; margin:18px 0;">
 
