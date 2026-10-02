@@ -22,20 +22,24 @@
 </div>
 
 <p align="center">
-Cybersecurity learner with a SOC focus, exploring Microsoft Security, cloud defenses, 
-and hands-on threat detection. Background in customer service, now transitioning fully 
-into cybersecurity and aiming to help people work safely in the digital world.
+I completed my SOC specialist training in August 2026. I combine a strong customer service background with practical experience in technical support, troubleshooting, and explaining technology clearly. I’m looking for opportunities in cybersecurity, IT support, and application support where I can help users, solve problems, and keep developing my skills.
 </p>
 
 ---
 
 ## 🌸 About Me
 
-- 🎓 Cybersecurity student (SOC, SIEM, Microsoft Security, Linux, IAM)
-- 🔍 Currently learning: **Microsoft Sentinel, Defender XDR, Intune**
-- 🎯 Goal: Become a **SOC Analyst / Security Specialist**
-- 🌱 Hands-on learning via **TryHackMe**, **labs**, **projects**, and **Microsoft Learn**
-- 🌍 Open to internship opportunities in Finland, preferably along the main railway line, with hybrid or remote options
+🎓 SOC specialist training completed at Business College Helsinki in August 2026
+
+💻 Recent experience in technical support at Elisa Omaguru, helping customers with devices, applications, and network connectivity
+
+🔎 Study and lab experience with Microsoft Sentinel, Defender XDR, KQL, Linux, and identity and access management
+
+🤝 Strong background in customer service, user guidance, teaching, and documentation
+
+🌱 Developing my skills through labs, projects, TryHackMe, and Microsoft Learn
+
+🌍 Based in Kokkola, Finland — open to onsite, hybrid, and remote roles, and willing to relocate
 
 ---
 
